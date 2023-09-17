@@ -31,5 +31,15 @@ Two batches of commands are available in the commands.sh file, one for CIFAR-10,
 
 The provided code is sufficient to reproduce Figure 4a (both DP-SGD and PILLAR).
 
+## Cite our work
+If you found this repository useful, please cite our code as:
 
 
+```
+@article{pinto2023pillar,
+  title={PILLAR: How to make semi-private learning more effective},
+  author={Pinto, Francesco and Hu, Yaxi and Yang, Fanny and Sanyal, Amartya},
+  journal={arXiv preprint arXiv:2306.03962},
+  year={2023}
+}
+```
